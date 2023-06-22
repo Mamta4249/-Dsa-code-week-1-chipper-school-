@@ -3,4 +3,4 @@ Constants are the token that are defined at the time of initialization and the a
 Constant is a value or number that never changes in expression it is constantly the same.
 Data type define the type of variable which is declared.
 There are different-different type of data types like int, char, double, float etc
-Some user=defined data types are struct, class, enum, etc 
+Some user=defined data types are struct, class, enum, etc. 
